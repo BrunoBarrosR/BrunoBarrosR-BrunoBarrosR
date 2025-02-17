@@ -1,40 +1,49 @@
 # BrunoBarrosR
 
-Atualmente atuo como Desenvolvedor Back End na Keeggo, alocado no cliente Banco BV, onde sou responsável pela análise e desenvolvimento de microsserviços API REST utilizando Spring Boot, Apache Camel e Camunda. 
-Participo ativamente no desenho de arquitetura de software com BizzDesign como Arquiteto Federado, além de implementar e gerenciar recursos de feature flags e configurações remotas utilizando ConfigCat, permitindo a ativação e desativação de funcionalidades sem necessidade de deploys.
-Possuo experiência no acompanhamento de pipelines de CI/CD utilizando Jenkins para automação de build, testes e deployment, e Spinnaker para orquestração e gerenciamento de deployments. 
-Também utilizo ferramentas como Kibana para monitoramento de sistemas.
-Adicionalmente, realizo pesquisas constantes para me manter atualizado e incorporar as melhores práticas e inovações na área de desenvolvimento.
+**Desenvolvedor Back End** na [Keeggo](https://www.keeggo.com/), alocado no **Banco BV**  
+💻 Atuação:  
+- Desenvolvimento de microsserviços API REST com **Spring Boot**, **Apache Camel** e **Camunda**  
+- Arquitetura de software com **BizzDesign** (Arquiteto Federado)  
+- Feature flags e configurações remotas via **ConfigCat**  
+- CI/CD com **Jenkins** e **Spinnaker**  
+- Monitoramento com **Kibana**
 
+---
 
-Foco atual:
-- Aperfeiçoar meus conhecimentos em tecnologias que envolvam o backend;
-- Aperfeiçoar o conhecimentos nas linguagens que utilizo (principalmente Java e Python);
-- Estudar sobre arquitetura de software.
+## 🎯 Foco Atual
+- Aprofundar conhecimentos em **backend** e **arquitetura de software**  
+- Dominar **Java** e **Python**  
+- Melhores práticas de DevOps
 
-Tecnologias:
+---
 
-<img align="left" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+### 🛠️ Tecnologias
+
+<img align="left" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 <img align="left" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-<img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="left" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="left" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="left" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-
+<img align="left" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="left" alt="Apache Camel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachecamel/apachecamel-original.svg">
+<img align="left" alt="Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
+<img align="left" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 
 <br><br>
 
-Estatísticas do GitHub:
+---
+
+### 📊 Estatísticas do GitHub
 
 <div>
   <a href="https://github.com/BrunoBarrosR">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBarrosR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBarrosR&layout=compact&langs_count=16&theme=dracula"/>
+    <!-- Adicione &hide=stars,prs para remover métricas específicas -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBarrosR&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
+    <!-- Use &custom_title=Linguagens Mais Usadas para personalizar -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBarrosR&layout=compact&theme=nightowl&hide_border=true&langs_count=8&hide=html,css"/>
   </a>
 </div>
 
-Perfil profissional:
+---
 
+### 📫 Contato Profissional
 
-<a href="https://www.linkedin.com/in/bruno-barros-rosa-ba17265a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-barros-rosa-ba17265a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:seu-email@example.com) <!-- Adicione seu e-mail -->
