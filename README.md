@@ -1,4 +1,4 @@
-# BrunoBarrosR.github.io
+# BrunoBarrosR
 
 Atualmente atuo como Desenvolvedor Back End na Keeggo, alocado no cliente Banco BV, onde sou responsável pela análise e desenvolvimento de microsserviços API REST utilizando Spring Boot, Apache Camel e Camunda. 
 Participo ativamente no desenho de arquitetura de software com BizzDesign como Arquiteto Federado, além de implementar e gerenciar recursos de feature flags e configurações remotas utilizando ConfigCat, permitindo a ativação e desativação de funcionalidades sem necessidade de deploys.
