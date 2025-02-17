@@ -1,10 +1,16 @@
 # BrunoBarrosR.github.io
 
-Desenvolvedor com experiência em back-end. Atualmente, estou me especializando em *Flutter* e *React*, buscando aprimorar minhas habilidades e contribuir para projetos de código aberto.
+Atualmente atuo como Desenvolvedor Back End na Keeggo, alocado no cliente Banco BV, onde sou responsável pela análise e desenvolvimento de microsserviços API REST utilizando Spring Boot, Apache Camel e Camunda. 
+Participo ativamente no desenho de arquitetura de software com BizzDesign como Arquiteto Federado, além de implementar e gerenciar recursos de feature flags e configurações remotas utilizando ConfigCat, permitindo a ativação e desativação de funcionalidades sem necessidade de deploys.
+Possuo experiência no acompanhamento de pipelines de CI/CD utilizando Jenkins para automação de build, testes e deployment, e Spinnaker para orquestração e gerenciamento de deployments. 
+Também utilizo ferramentas como Kibana para monitoramento de sistemas.
+Adicionalmente, realizo pesquisas constantes para me manter atualizado e incorporar as melhores práticas e inovações na área de desenvolvimento.
+
 
 Foco atual:
 - Aperfeiçoar meus conhecimentos em tecnologias que envolvam o backend;
-- Aperfeiçoar o conhecimentos nas linguagens que utilizo (principalmente Java e Python).
+- Aperfeiçoar o conhecimentos nas linguagens que utilizo (principalmente Java e Python);
+- Estudar sobre arquitetura de software.
 
 Tecnologias:
 
